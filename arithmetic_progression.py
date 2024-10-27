@@ -1,14 +1,23 @@
 class ArithmeticProgression:
-    def __init__(self, first = int, second = int, difference = int):
+    def __init__(self, first = int, last = int, difference = int):
         self.first = first
-        self.second = second
+        self.last = last
         self.difference = difference
 
-    def first_val(self, first):
+    def set_first(self, first):
         self.first = first
-    def second_val(self, second):
-        self.second = second
-    def diff(self, difference):
+    def set_last(self, last):
+        self.last = last
+    def set_difference(self, difference):
         self.difference = difference
-
+    def get_first(self) -> int:
+        return self.first
+    def get_last(self) -> int:
+        return self.last
+    def get_difference(self) -> int:
+        return self.difference
+    def generator(self):
+        sequence = []
+        current = self.first
+        while current <= self.last
     

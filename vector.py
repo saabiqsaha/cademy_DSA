@@ -28,3 +28,5 @@ class Vector:
     def __str__(self):
 
         return '<' + str(self._coords)[1:-1] + '>'
+    
+

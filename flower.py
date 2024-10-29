@@ -7,7 +7,7 @@ class Flower:
     def name_setter(self, name):
         self.name = name
     def price_setter(self, price):
-        self.price = price
+        self.price = pric
     def num_petals(self, petals):
         self.petals = petals
     

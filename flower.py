@@ -16,4 +16,4 @@ class Flower:
     def get_price(self, price):
         return self.price
     def get_num_petals(self, petals):
-        return self.petals
+        return self.petal

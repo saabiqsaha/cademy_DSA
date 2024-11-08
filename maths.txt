@@ -1,0 +1,3 @@
+A surveyor standing 50 feet from the base of a large tree measures the angle of elevation to the top of the tree as 58.5°. How accurately must the angle be measured if the percent error in estimating the height of the tree is to be less than 8%? (Round your answer to three decimal places.)
+|d𝜃| ≤ 
+ radians
